@@ -8,4 +8,4 @@ I'll work closely with your team to meet your organization's needs and create so
 
 Feel free to email me for a quote on your next project.
 
-Check out my Upwork Profile Here: [Link](https://www.upwork.com/o/profiles/users/~01cc05bc0870218c19/)
+Check out my Upwork Profile [Here.](https://www.upwork.com/o/profiles/users/~01cc05bc0870218c19/)
