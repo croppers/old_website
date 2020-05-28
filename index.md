@@ -1,37 +1,11 @@
 # Professional Technical Writing
 
-Hello, and welcome to my website! This is a 
+Are you building disruptive technology that will help developers make amazing new things? I want to help you tell the world.
 
-![Image](https://jekyll-themes.com/premium-images/avocado.webp)
+As an experienced writer and programmer, I'll write an engaging tutorial or article for your product that will get newcomers excited to try your tech.
 
-### Markdown
+I'll work closely with your team to meet your organization's needs and create something we can be proud of together. Remember that a fun, easy-to-follow tutorial not only benefits your prospective customers but also increases your product's user base and market exposure.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Feel free to email me for a quote on your next project.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/croppers/croppers.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out my Upwork Profile Here: [Link](https://www.upwork.com/o/profiles/users/~01cc05bc0870218c19/)
