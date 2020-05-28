@@ -1,3 +1,9 @@
+title: Stephen Cropper
+description: Technical Writing Specialist
+logo: logo.png
+show_downloads: "false"
+google_analytics: UA-167947457-1
+
 ## Stephen Cropper
 
 ![Image](https://jekyll-themes.com/premium-images/avocado.webp)
