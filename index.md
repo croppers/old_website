@@ -1,5 +1,7 @@
 ## Stephen Cropper
 
+![Image](https://jekyll-themes.com/premium-images/avocado.webp)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
