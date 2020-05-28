@@ -1,4 +1,6 @@
-## Stephen Cropper
+# Welcome!
+
+Hello, and welcome to my website! This is a 
 
 ![Image](https://jekyll-themes.com/premium-images/avocado.webp)
 
