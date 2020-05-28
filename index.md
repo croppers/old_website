@@ -6,6 +6,6 @@ As an experienced writer and programmer, I'll write an engaging tutorial or arti
 
 I'll work closely with your team to meet your organization's needs and create something we can be proud of together. Remember that a fun, easy-to-follow tutorial not only benefits your prospective customers but also increases your product's user base and market exposure.
 
-Feel free to email me for a quote on your next project.
+Feel free to email me for a quote on your next project at [stephen@cropper.info](mailto:stephen@cropper.info).
 
 Check out my Upwork Profile [Here.](https://www.upwork.com/o/profiles/users/~01cc05bc0870218c19/)
