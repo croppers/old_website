@@ -1,11 +1,13 @@
-# Professional Technical Writing
+# Professional Writer
+Hello, and welcome to my website! Here, my focus is showing you what I can bring to your next writing project. Whether it's expert proofreading and editing, or an original technical writing piece, I am ready to bring well structured, engaging content to your business or personal project.
 
-Are you building disruptive technology that will help developers make amazing new things? I want to help you tell the world.
+Feel free to email me for a quote at [stephen@cropper.info](mailto:stephen@cropper.info).
 
-As an experienced writer and programmer, I'll write an engaging tutorial or article for your product that will get newcomers excited to try your tech.
+Your can also view my freelancer profile on Upwork [here.](https://www.upwork.com/o/profiles/users/~01cc05bc0870218c19/)
 
-I'll work closely with your team to meet your organization's needs and create something we can be proud of together. Remember that a fun, easy-to-follow tutorial not only benefits your prospective customers but also increases your product's user base and market exposure.
+## Sample Projects
 
-Feel free to email me for a quote on your next project at [stephen@cropper.info](mailto:stephen@cropper.info).
+I've included some examples of my past work below. Feel free to explore!
 
-Check out my Upwork Profile [Here.](https://www.upwork.com/o/profiles/users/~01cc05bc0870218c19/)
+### Tech Tutorial - MongoDB Atlas
+I created [this tech tutorial](https://stories.mlh.io/how-to-make-a-hack-planner-with-mongodb-8b6fa612645) for [Major League Hacking, Inc.](https://mlh.io/).
