@@ -9,5 +9,6 @@ Your can also view my freelancer profile on Upwork [here.](https://www.upwork.co
 
 I've included some examples of my past work below. Feel free to explore!
 
-### Tech Tutorial - MongoDB Atlas
-I created [this tech tutorial](https://stories.mlh.io/how-to-make-a-hack-planner-with-mongodb-8b6fa612645) for [Major League Hacking, Inc.](https://mlh.io/).
+### Tech Tutorials
+* [How to Make a "Hack Planner" with MongoDB Atlas](https://stories.mlh.io/how-to-make-a-hack-planner-with-mongodb-8b6fa612645)
+
