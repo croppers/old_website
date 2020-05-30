@@ -3,8 +3,8 @@ Hello, and welcome to my website! Here, my focus is showing you what I can bring
 
 Drop me a line:
 * Email - [stephen@cropper.info](mailto:stephen@cropper.info)
-* LinkedIn - [stephenjamescropper](https://www.linkedin.com/in/stephencropper/)
-* Upwork - [profile](https://www.upwork.com/o/profiles/users/~01cc05bc0870218c19/)
+* LinkedIn - [linkedin.com/in/stephencropper](https://www.linkedin.com/in/stephencropper/)
+* Upwork - [upwork.com/fl/scropper](https://www.upwork.com/fl/scropper)
 
 ## Sample Projects
 
