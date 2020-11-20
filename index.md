@@ -4,6 +4,8 @@ Drop me a line:
 * Email - [stephen@cropper.info](mailto:stephen@cropper.info)
 * LinkedIn - [linkedin.com/in/stephencropper](https://www.linkedin.com/in/stephencropper/)
 
+[View my CV](http://cropper.info/cv.pdf/)
+
 ## Recent Projects
 
 I've included some examples of my past work below. Feel free to explore!
