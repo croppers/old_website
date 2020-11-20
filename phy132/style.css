@@ -1,0 +1,39 @@
+body {
+    background-color: #fff1da;
+    color: #008040;
+    font-size: 20px;
+    line-height: 2;
+}
+h1 {
+    text-align: center;
+    padding: 10px;
+    font-size: 40px;
+}
+p {
+    padding-left: 10px;
+    text-indent: 50px;
+line-height: 20px;
+}
+a {
+    color: #008040;
+}
+.topnav {
+  overflow: hidden;
+  margin: 20px;
+  border-bottom-color: #008040;
+  border-bottom-width: 5px;
+  border-bottom-style: solid;
+}
+.topnav a {
+  float: left;
+  color: #008040;
+  text-align: center;
+  padding: 14px 26px;
+  text-decoration: none;
+}
+.topnav a.active {
+  font-weight: bold;
+}
+#entry {
+    margin-left: 50px;
+}
