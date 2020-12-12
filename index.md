@@ -20,4 +20,4 @@ I've included some examples of my past work below. Feel free to explore!
 ## Recent Presentations
 
 S. Cropper and C.E. Cunningham, “Lessons from Single Crystal Flux Growth” presented at the MCMS Undergraduate Research
-Symposium, St. Louis, MO, November 9-10, 2018, abstract 14 [pdf](http://cropper.info/MCMS_abstracts.pdf)
+Symposium, St. Louis, MO, November 9-10, 2018, abstract 14 [(pdf)](http://cropper.info/MCMS_abstracts.pdf)
